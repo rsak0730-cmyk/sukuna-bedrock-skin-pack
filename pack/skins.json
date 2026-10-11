@@ -1,0 +1,12 @@
+{
+  "skins": [
+    {
+      "localization_name": "sukuna",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skins/sukuna.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "sukuna_pack",
+  "localization_name": "sukuna_pack"
+}
