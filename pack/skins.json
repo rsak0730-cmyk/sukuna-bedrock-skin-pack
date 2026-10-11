@@ -2,8 +2,7 @@
   "skins": [
     {
       "localization_name": "sukuna",
-      "geometry": 
-      "geometry.humanoid.customSlim"
+      "geometry": "geometry.humanoid.customSlim"
       "texture": "skins/sukuna.png",
       "type": "free"
     }
