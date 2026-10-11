@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Sukuna Fan Skin Pack",
+    "description": "Original Sukuna-inspired fan skin for Minecraft Bedrock",
+    "uuid": "a7a34f42-34c9-4ba2-a91f-86e4c67f2a11",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "f8a572e1-4db3-4ed6-bf34-3c6ae5b1d9ac",
+      "version": [1, 0, 0]
+    }
+  ]
+}
